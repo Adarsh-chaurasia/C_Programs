@@ -1,4 +1,5 @@
 //swapping of two integer numbers using third variable.!!
+//This Method uses some extra space,which is not required 
 #include<stdio.h>
 main()
 {

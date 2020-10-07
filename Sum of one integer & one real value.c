@@ -8,3 +8,4 @@ main()
 	sum=n1+n2;
 	printf("Sum = %0.2f",sum);//printing sum of two numbers
 }
+#Sum of integer
